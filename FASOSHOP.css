@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	color: black;
+}
+header{
+
+	background-color: #D1CFCF ;
+}
+nav{
+	background-color: #D1CFCF ;
+	text-align: left ;
+	color: #050505 ;
+
+}
+.active
